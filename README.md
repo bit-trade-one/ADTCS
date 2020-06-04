@@ -1,53 +1,74 @@
-# -ADXXXXX-Template
+# -ADTCS-超小型タッチスイッチ
 
-## ここに見出し
+## 触るだけでPCをコントロール！ 「超小型USBタッチスイッチ」
 
-![タイトル画像のURLを右のカッコに]()
+![title](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/05/adtcs.jpg)
 
-「●●●●●」はほにゃららするためのなんちゃらボード。  
-この製品を使用する事でもにょもにょがぺけぺけできる。  
+「超小型USBタッチスイッチ」は極小サイズのシングルタッチスイッチを実装できるUSBモジュール。  
+貼り付けたり、固定するだけで思いのままにスイッチを増設することができます。  
+25mm x 15mm x 12mmのマイクロサイズだから様々な場所に設置可能。  
+装置への組み込みにも対応できるよう、外装も全て省いた基板剥き出しの玄人仕様。  
+専用アプリからマウス・キーボード・ジョイスティックボタンへの割付が可能。  
+デスクサイドや隠しスイッチ等、あなたのアイデア次第で面白いスイッチワークを実現できます。   
 
-<!--
-改行する場合、文末に半角スペース2個を置く
+<!-- wp:heading {"level":3} -->
+<h3> 製品用途</h3>
+<!-- /wp:heading -->
 
-リンクの貼り方
-[リンクになる文章](URL)
-exp.
-[Google](https://www.google.co.jp/)
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">・既存コントローラやデバイスに追加するタッチスイッチ<br>・エンターキー等を割り当てて円滑操作<br>・ページダウンを割り当ててテキスト読み<br>・狭いスペースへの取り付け<br>・組み込みモジュールとしての使用<br>Etc…</p>
+<!-- /wp:paragraph -->
 
-画像の貼り方
-![画像が読めない時に表示されるテキスト](画像のURL)
-exp.
-![bit-trade-one](https://bit-trade-one.co.jp/wp/wp-content/uploads/tcd-w/logo.png)
-※先頭の"!"を忘れないこと
+<!-- wp:heading {"level":3} -->
+<h3>製品の特徴</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":11525,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/05/P1470355.png" alt="" class="wp-image-11525"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>・<strong>超小型軽量タッチスイッチ！触るだけでスイッチとして機能</strong><br>静電容量方式を採用した小型タッチスイッチモジュールです。<br>軽く触るだけでOK,音もなくスイッチングができます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11523,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/05/IMG_20200303_182046-1-1024x467.jpg" alt="" class="wp-image-11523"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>・取り付けに最大限配慮した省スペース設計</strong><br>25mm x 15mm x 12mmという取り回しやすい本体設計を最大限活かすべくケーシングを排除。<br>モニターサイドや机の裏、デバイス内部等色々なところでお使いいただけます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11524,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/05/da29a7309215fff75e4dcd5309d9a9aa.jpg" alt="" class="wp-image-11524"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>・専用ツールでボタンが七変化！　マウスやキーボード、ジョイスティックボタンとして動作</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://pbs.twimg.com/media/EZfylj8U4AcSJyK?format=png&amp;name=large" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><br>USBMiniB端子でPCと接続し、専用ツールで様々なボタンとして振る舞うよう、割付を行う事ができます。<br>マウスやキーボード、ジョイスティックのお好きな機能を必要に割り当てれば、あとは独立した一個のボタンとして単体動作。<br>エンターやスペースで作業効率アップするもよし、ページダウン等でテキスト読みにもよし。<br>貴方好みのタッチスイッチを作り出してください！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"vivid-red"} -->
+<p class="has-vivid-red-color has-text-color">ご注意！<br>本製品はケーシングされていません。<br>使用時は絶縁などをしっかり確認しお使いください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">基本仕様<br>【入力方式】静電容量式タッチセンサ<br>【入力点数】1<br>【入力】USBmini B<br>【サイズ】25 x 15 x 12 mm<br>【重量】<br>【動作環境】 温度0～45℃、湿度10～60％(結露なきこと）<br>【保証期間】 1年間<br>【付属品】USBminiBケーブル1本 保証書 1部</p>
+<!-- /wp:paragraph -->
 
 
-見出しの付け方
-
-# 見出し1
-
-## 見出し1-1
-
-###　見出し1-2
-
-# 見出し2
-
-"#"を増やすと下位の見出しになる
-
-
--->
-
-
-<!--
-以下のURL内の"-ADXXXXX-Template"をリポジトリ名/ファイル名に変更 
-
-製品によって無い情報(ライブラリへのリンクなど)は削除すること
-
-ソフトの使い方、ライブラリの使い方などがWordなどである場合は、
-各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
--->
-
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
+# [製品の詳細はこちら](https://bit-trade-one.co.jp/adtcs/) 
 
 ## [マニュアルはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 
@@ -79,20 +100,3 @@ exp.
 [Twitter作例2]()  
 [ブログ作例1]()  
 [ブログ作例1]()  
-
-## 雑誌掲載情報
-
-[ラズパイマガジンXX年Y月号]()  
-[Pc Watch]()
-
-## 製品仕様
-    【対応OS】Windows7以降
-    【サイズ】W16×D20×H5mm
-    【重量】約1g
-    【入力点数】12(デジタル)
-    【コネクタ】USBマイクロB
-    【電源】5V (USBマイクロB)
-    【使用温度】0 ～ 40℃（結露なきこと）
-    【保証期間】 1年間
-    【付属品】保証書 1部
-    【生産国】Made in Japan
