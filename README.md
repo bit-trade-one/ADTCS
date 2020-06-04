@@ -70,28 +70,21 @@
 
 # [製品の詳細はこちら](https://bit-trade-one.co.jp/adtcs/) 
 
-## [マニュアルはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/App/)  
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
+## [ファームウェアはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/Firmware/)
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+## [Q&A](https://github.com/bit-trade-one/ADTCS/blob/master/FAQ.md)
 
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/App_source/)  
 
-### [ライブラリはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/Firmware_source/)
 
-### [サンプルコードはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
-
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
-
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
-
+<!--
 ### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
 ### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
-
 ### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
-
+-->
 
 ## 作例
 
