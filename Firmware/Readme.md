@@ -38,9 +38,9 @@ Microchip社のファームウェア書込ツールを公開しています。
 ### 3. ソフトの書き込み
 
 最初に、設定ツールから超小型USBタッチスイッチをBOOTモードにします。
-![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/06/ADTCS02Update.png)
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/06/ADTCS02Update.png)  
 右下の「Update」ボタンをクリックしてください。
-![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/06/ADTCS03dialog.png)
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/06/ADTCS03dialog.png)  
 するとこのようにダイアログが表示されます。
 OKをクリックすると、超小型USBタッチスイッチがBOOTモードになります。
 
