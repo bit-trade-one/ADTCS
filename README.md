@@ -80,16 +80,11 @@
 
 ### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/Firmware_source/)
 
+
+### [基板図](https://github.com/bit-trade-one/ADTCS/tree/master/Dimentions)
 <!--
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
 ### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
 ### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
 -->
 
-## 作例
 
-[BTO公式]()  
-[Twitter作例1]()  
-[Twitter作例2]()  
-[ブログ作例1]()  
-[ブログ作例1]()  
