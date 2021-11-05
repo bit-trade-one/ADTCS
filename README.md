@@ -11,6 +11,24 @@
 専用アプリからマウス・キーボード・ジョイスティックボタンへの割付が可能。  
 デスクサイドや隠しスイッチ等、あなたのアイデア次第で面白いスイッチワークを実現できます。   
 
+# [製品の詳細はこちら](https://bit-trade-one.co.jp/adtcs/) 
+
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/App/)  
+
+## [ファームウェアはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/Firmware/)
+
+## [Q&A](https://github.com/bit-trade-one/ADTCS/blob/master/FAQ.md)
+
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/App_source/)  
+
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/Firmware_source/)
+
+
+### [基板図](https://github.com/bit-trade-one/ADTCS/blob/master/Dimentions/ADTCS_Dimention.pdf)
+<!--
+### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
+### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
+-->
 <!-- wp:heading {"level":3} -->
 <h3> 製品用途</h3>
 <!-- /wp:heading -->
@@ -66,25 +84,4 @@
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">基本仕様<br>【入力方式】静電容量式タッチセンサ<br>【入力点数】1<br>【入力】USBmini B<br>【サイズ】25 x 15 x 12 mm<br>【重量】<br>【動作環境】 温度0～45℃、湿度10～60％(結露なきこと）<br>【保証期間】 1年間<br>【付属品】USBminiBケーブル1本 保証書 1部</p>
 <!-- /wp:paragraph -->
-
-
-# [製品の詳細はこちら](https://bit-trade-one.co.jp/adtcs/) 
-
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/App/)  
-
-## [ファームウェアはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/Firmware/)
-
-## [Q&A](https://github.com/bit-trade-one/ADTCS/blob/master/FAQ.md)
-
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/App_source/)  
-
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADTCS/raw/master/Firmware_source/)
-
-
-### [基板図](https://github.com/bit-trade-one/ADTCS/blob/master/Dimentions/ADTCS_Dimention.pdf)
-<!--
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
-### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
--->
-
 
